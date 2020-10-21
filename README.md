@@ -21,7 +21,7 @@ const tweetConcat = ( ? ? ) => {
 ```
 
 3. Invoke the `tweetConcat` function with the appropriate arguments
-   and store the result in a new variable called 'tweet1'
+   and store the result in a new variable called `tweet1`
 
 ```
 const tweet1 = tweetConcat("array methods", "challenging");
@@ -31,7 +31,7 @@ const tweet1 = tweetConcat("array methods", "challenging");
 
    Console should read:
 
-   "Learning array methods in class today. It's really challengin."
+   "Learning array methods in class today. It's really challenging."
 
 ### PART 2
 
